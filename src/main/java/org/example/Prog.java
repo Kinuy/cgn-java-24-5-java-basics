@@ -38,7 +38,6 @@ public class Prog {
         }
 
 
-
     }
 
     public static double add(double a, double b) {
