@@ -11,6 +11,7 @@ public class CalculatorTest {
         int a = 3;
         int b = 6;
 
+
         //WHEN
         int actual = Calculator.sum(a,b);
 
