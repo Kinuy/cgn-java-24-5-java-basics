@@ -5,6 +5,7 @@ public class Calculator {
         int result = sum(3,6);
     }
 
+
     public static int sum(int a, int b) {
         return a + b +1;
     }
